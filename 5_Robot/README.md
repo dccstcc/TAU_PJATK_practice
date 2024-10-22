@@ -28,7 +28,7 @@
     <img src="images/logo.jpg" alt="Logo" width="540" height="80">
   </a>
 
-  <h2 align="center">Software testing</h2>
+  <h2 align="center">Automated software testing</h2>
 
   <p align="center">
     <h3> Testing Graphics User WEB Interfaces with Robot framework </h3>
@@ -147,7 +147,7 @@ for allow robot to perform tests by use chrome
 
 3. Clone the repo with robot framework tests
    ```sh
-   https://github.com/dominik-stec/Software_Testing_PJA.git
+   https://github.com/dominik-stec/QA.git
    ```
 
 <!-- USAGE EXAMPLES -->
@@ -207,13 +207,13 @@ See `LICENSE` for more information.
 
 ## Contact
 
-Dominik Stec - dominikstec@devapp.tools
+Dominik Stec - dccstcc@gmail.com
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 Project URL:
 <br />
-`https://github.com/dominik-stec/Software_Testing_PJA.git`
+`https://github.com/dominik-stec/QA.git`
 
 <!-- ACKNOWLEDGEMENTS
 ## Acknowledgements
@@ -234,16 +234,16 @@ Project URL:
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/dccstcc/TAU_PJATK_practice.svg?style=for-the-badge
-[contributors-url]: https://github.com/dccstcc/TAU_PJATK_practice/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/dccstcc/TAU_PJATK_practice.svg?style=for-the-badge
-[forks-url]: https://github.com/dccstcc/TAU_PJATK_practice/network/members
-[stars-shield]: https://img.shields.io/github/stars/dccstcc/TAU_PJATK_practice.svg?style=for-the-badge
-[stars-url]: https://github.com/dccstcc/TAU_PJATK_practice/stargazers
-[issues-shield]: https://img.shields.io/github/issues/dccstcc/TAU_PJATK_practice.svg?style=for-the-badge
-[issues-url]: https://github.com/dccstcc/TAU_PJATK_practice/issues
+[contributors-shield]: https://img.shields.io/github/contributors/dominik-stec/QA.svg?style=for-the-badge
+[contributors-url]: https://github.com/dominik-stec/QA/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/dominik-stec/QA.svg?style=for-the-badge
+[forks-url]: https://github.com/dominik-stec/QA/network/members
+[stars-shield]: https://img.shields.io/github/stars/dominik-stec/QA.svg?style=for-the-badge
+[stars-url]: https://github.com/dominik-stec/QA/stargazers
+[issues-shield]: https://img.shields.io/github/issues/dominik-stec/QA.svg?style=for-the-badge
+[issues-url]: https://github.com/dominik-stec/QA/issues
 [license-shield]: https://img.shields.io/badge/License-NONE-orange
-[license-url]: https://github.com/dccstcc/TAU_PJATK_practice/blob/master/LICENSE.md
+[license-url]: https://github.com/dominik-stec/QA/blob/master/LICENSE.md
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/dominik-stec
 [product-screenshot]: images/screenshot.png
