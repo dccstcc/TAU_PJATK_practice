@@ -30,7 +30,7 @@
     <img src="images/logo.jpg" alt="Logo" width="540" height="80">
   </a>
 
-  <h2 align="center">Software Testing</h2>
+  <h2 align="center">Automated software testing</h2>
 
   <p align="center">
     <h3> Testowanie Automatyczne (TAU) lecture module in PJATK </h3>
@@ -114,15 +114,15 @@ Python interpreter is need. <br />
 
 ### List of projects
 
-1. [JUnit, Mockito, Docker](https://github.com/dominik-stec/Software_Testing_PJA/tree/main/1_JUnit_Mockito)
+1. [JUnit, Mockito, Docker](https://github.com/dominik-stec/QA/tree/main/1_JUnit_Mockito)
 
-2. [Cucumber](https://github.com/dominik-stec/Software_Testing_PJA/tree/main/2_BDD)
+2. [Cucumber](https://github.com/dominik-stec/QA/tree/main/2_BDD)
 
-3. [Jmeter](https://github.com/dominik-stec/Software_Testing_PJA/tree/main/3_Jmeter)
+3. [Jmeter](https://github.com/dominik-stec/QA/tree/main/3_Jmeter)
 
-4. [Selenium](https://github.com/dominik-stec/Software_Testing_PJA/tree/main/4_Selenium)
+4. [Selenium](https://github.com/dominik-stec/QA/tree/main/4_Selenium)
 
-5. [Robot](https://github.com/dominik-stec/Software_Testing_PJA/tree/main/5_Robot)
+5. [Robot](https://github.com/dominik-stec/QA/tree/main/5_Robot)
 
 <!-- USAGE EXAMPLES -->
 
@@ -164,13 +164,13 @@ See `LICENSE` for more information.
 
 ## Contact
 
-Dominik Stec - dominikstec@devapp.tools
+Dominik Stec - dccstcc@gmail.com
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 Project URL:
 <br />
-`https://github.com/dominik-stec/Software_Testing_PJA.git`
+`https://github.com/dominik-stec/QA.git`
 
 <!-- ACKNOWLEDGEMENTS
 ## Acknowledgements
@@ -191,16 +191,16 @@ Project URL:
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/dominik-stec/Software_Testing_PJA.svg?style=for-the-badge
-[contributors-url]: https://github.com/dominik-stec/Software_Testing_PJA/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/dominik-stec/Software_Testing_PJA.svg?style=for-the-badge
-[forks-url]: https://github.com/dominik-stec/Software_Testing_PJA/network/members
-[stars-shield]: https://img.shields.io/github/stars/dominik-stec/Software_Testing_PJA.svg?style=for-the-badge
-[stars-url]: https://github.com/dominik-stec/Software_Testing_PJA/stargazers
-[issues-shield]: https://img.shields.io/github/issues/dominik-stec/Software_Testing_PJA.svg?style=for-the-badge
-[issues-url]: https://github.com/dominik-stec/Software_Testing_PJA/issues
+[contributors-shield]: https://img.shields.io/github/contributors/dominik-stec/QA.svg?style=for-the-badge
+[contributors-url]: https://github.com/dominik-stec/QA/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/dominik-stec/QA.svg?style=for-the-badge
+[forks-url]: https://github.com/dominik-stec/QA/network/members
+[stars-shield]: https://img.shields.io/github/stars/dominik-stec/QA.svg?style=for-the-badge
+[stars-url]: https://github.com/dominik-stec/QA/stargazers
+[issues-shield]: https://img.shields.io/github/issues/dominik-stec/QA.svg?style=for-the-badge
+[issues-url]: https://github.com/dominik-stec/QA/issues
 [license-shield]: https://img.shields.io/badge/License-NONE-orange
-[license-url]: https://github.com/dominik-stec/Software_Testing_PJA/blob/master/LICENSE.md
+[license-url]: https://github.com/dominik-stec/QA/blob/master/LICENSE.md
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/dominik-stec
 [product-screenshot]: images/screenshot.png
