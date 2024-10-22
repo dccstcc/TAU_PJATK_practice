@@ -21,7 +21,7 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![NO LICENSE][license-shield]][license-url]
 
-[![CircleCI](https://circleci.com/gh/circleci/circleci-docs.svg?style=svg)](https://app.circleci.com/pipelines/github/dominik-stec/Software_Testing_PJA?branch=master)
+[![CircleCI](https://circleci.com/gh/circleci/circleci-docs.svg?style=svg)](https://app.circleci.com/pipelines/github/dominik-stec/QA?branch=master)
 
 <!-- PROJECT LOGO -->
 <br />
@@ -30,7 +30,7 @@
     <img src="images/logo.jpg" alt="Logo" width="540" height="80">
   </a>
 
-  <h2 align="center">Software Testing</h2>
+  <h2 align="center">Automated software testing</h2>
 
   <p align="center">
     <h3> Unit tests with JUnit and Mockito </h3>
@@ -125,7 +125,7 @@ Apache Maven project build tools is need. <br />
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/dominik-stec/Software_Testing_PJA.git
+   git clone https://github.com/dominik-stec/QA.git
    ```
 2. Go to folder with Maven project sources
    ```sh
@@ -196,13 +196,13 @@ See `LICENSE` for more information.
 
 ## Contact
 
-Dominik Stec - dominikstec@devapp.tools
+Dominik Stec - dccstcc@gmail.com
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 Project URL:
 <br />
-`https://github.com/dominik-stec/Software_Testing_PJA.git`
+`https://github.com/dominik-stec/QA.git`
 
 <!-- ACKNOWLEDGEMENTS
 ## Acknowledgements
@@ -223,16 +223,16 @@ Project URL:
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/dccstcc/TAU_PJATK_practice.svg?style=for-the-badge
-[contributors-url]: https://github.com/dccstcc/TAU_PJATK_practice/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/dccstcc/TAU_PJATK_practice.svg?style=for-the-badge
-[forks-url]: https://github.com/dccstcc/TAU_PJATK_practice/network/members
-[stars-shield]: https://img.shields.io/github/stars/dccstcc/TAU_PJATK_practice.svg?style=for-the-badge
-[stars-url]: https://github.com/dccstcc/TAU_PJATK_practice/stargazers
-[issues-shield]: https://img.shields.io/github/issues/dccstcc/TAU_PJATK_practice.svg?style=for-the-badge
-[issues-url]: https://github.com/dccstcc/TAU_PJATK_practice/issues
+[contributors-shield]: https://img.shields.io/github/contributors/dccstcc/QA.svg?style=for-the-badge
+[contributors-url]: https://github.com/dccstcc/QA/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/dccstcc/QA.svg?style=for-the-badge
+[forks-url]: https://github.com/dccstcc/QA/network/members
+[stars-shield]: https://img.shields.io/github/stars/dccstcc/QA.svg?style=for-the-badge
+[stars-url]: https://github.com/dccstcc/QA/stargazers
+[issues-shield]: https://img.shields.io/github/issues/dccstcc/QA.svg?style=for-the-badge
+[issues-url]: https://github.com/dccstcc/QA/issues
 [license-shield]: https://img.shields.io/badge/License-NONE-orange
-[license-url]: https://github.com/dccstcc/TAU_PJATK_practice/blob/master/LICENSE.md
+[license-url]: https://github.com/dccstcc/QA/blob/master/LICENSE.md
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/dominik-stec
 [product-screenshot]: images/screenshot.png
